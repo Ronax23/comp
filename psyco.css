@@ -1,0 +1,237 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bgm
+    {
+        background-color:#f86b2999 !important;
+        text-transform: uppercase;
+        padding: 10px 0;
+        border: none !important;
+    }
+    html{
+        font-size: 20px;
+    }
+    nav ul li a
+    {
+        color: white !important;
+    }
+    .name
+    {
+        font-size: 3rem;
+        color: white !important;
+    }
+
+    .main h1
+    {
+        font-size: 8rem;
+        text-transform: capitalize;
+    }
+    .main p
+    {
+        font-size: 2.3rem;
+        text-transform: capitalize;
+    }
+    header
+    {
+        background-color: rgb(255,64,0);
+        height: 80vh;
+    }
+    .main
+    {
+        /* padding: 200px 0px; */
+        text-align: center;
+        color: white;
+        margin-top: 100px;
+    }
+    .bx
+    {
+        text-transform: capitalize;
+        font-size: 20px !important;
+    }
+    #sec2 h1,#sec3 h1
+    {
+        font-size: 4rem;
+        text-transform: capitalize;
+    }
+    #sec2 p,#sec3 p
+    {
+        font-size: 2rem;
+        margin: 50px 0;
+    }
+    #sec2,#sec3,#sec4,#sec5,#sec6
+    {
+        padding: 100px 0;
+        align-content: center;
+    }
+    #sec7
+    {
+        padding-bottom: 50px;
+    }
+    #sec7 button
+    {
+        margin-top: 20px;
+    }
+    #sec3,#sec5
+    {
+        width: 100%;
+        background-color: #f5f5f5;
+    }
+    .myicon{
+        font-size: 20rem;
+        color: orangered;
+    }
+
+    /* .second-3 .glyphicon{
+        color:orange;
+        font-size: 20rem;
+    } */
+    .card-content,.card
+    {
+        background-color: white !important;
+        padding-bottom: 10px;
+    }
+    .pan-col
+    {
+        background-color: white !important;
+        line-height: 30px;
+    }
+    .ptxt 
+    {
+        color: gray;
+        font-size: 3rem;
+        margin: 10px 0;
+    }
+    .htxt 
+    {
+        margin: 18px 0;
+    }
+    .myicon2
+    {
+        font-size: 6rem;
+        color: orangered;
+    }
+    #sec4 h3,#sec4 h2
+    {
+        text-transform: uppercase;
+    }
+    .im img
+    {
+        width: 100%;
+        /* height: 200px; */
+
+    }
+    .con
+    {
+        margin-bottom: 50px;
+    }
+    .im
+    {
+        /* background-color: #fff; */
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .carousel-control.left, .carousel-control.right
+    {
+        background: none;
+        color: orangered;
+    }
+    .carousel-indicators li.active
+    {
+        background-color: orangered;
+        border-color: orangered;
+    }
+    .carousel-indicators li
+    {
+        border-color: orangered;
+    }
+    .item p
+    {
+        margin: 60px;
+    }
+    .shift
+    {
+        /* margin-top: 400px; */
+        position: relative;
+        top: 50px;
+    }
+    #sec2 .col-md-3{
+        margin-top: 40px;
+    }
+    .panel 
+    {
+        border:1px solid orangered !important;
+    }
+    .panel-heading, .panel button
+    {
+        background-color: orangered;
+        color: white;
+    }
+    .card 
+    {
+       margin-bottom: 30px;
+    }
+    .con
+    {
+        /* width: 80%; */
+        /* margin: 0 auto; */
+    }
+    /* .carousel
+    {
+        position: relative;
+    }
+    .carousel h1{
+        position: absolute;
+        top: 50%;
+        z-index: 1;
+    } */
+
+    #sec4 .container .gap p,#sec5 .container .gap h2
+    {
+       margin-bottom: 40px;
+    }
+     #sec8
+     {
+        width: 100%;
+     }
+     #sec8 img
+     {
+        width: 100%;
+     }
+     #sec7 textarea
+     {
+        width: 100%;
+        height: 100px;
+        margin-top: 20px;
+     }
+     #sec7 p
+     {
+         text-transform: capitalize;
+     }
+     #sec7 i
+ {
+     margin-right: 20px;
+ }
+ footer i
+ {
+    color: orangered;
+    font-size: 20px;
+    margin-top: 20px;
+ }
+     footer
+     {
+        width: 100%;
+        text-transform: capitalize;
+     }
+     @media (max-width:768px)
+     {
+       
+        #sec2,#sec3,#sec7
+        {
+            text-align: center;
+        }
+
+     }
